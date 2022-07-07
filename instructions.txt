@@ -1,0 +1,10 @@
+Create raid on a channel
+and go to network tab and under {"gql"{"createraid"{"Raid_ID"}}}
+get raid id and paste it in terminal
+before make sure u have working tokens in tokens.txt
+check github for drops
+and your good to use the software
+
+DO NOT SELL THIS SOFTWARE
+IF YOUR USING GIVE CREDITS
+DONT SKID
